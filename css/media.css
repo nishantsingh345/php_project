@@ -1,0 +1,916 @@
+/* Responsive */
+
+@media only screen and (min-device-width: 1920px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1801px) and (max-device-width: 1919px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1701px) and (max-device-width: 1800px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1601px) and (max-device-width: 1700px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1501px) and (max-device-width: 1600px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1401px) and (max-device-width: 1500px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1281px) and (max-device-width: 1400px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1280px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1131px) and (max-device-width: 1199px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1100px) and (max-device-width: 1130px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1099px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 1000px) and (max-device-width: 1024px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 900px) and (max-device-width: 999px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 801px) and (max-device-width: 899px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 800px) {
+  img.img-responsive.res_768 {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 601px) and (max-device-width: 767px) {
+  .home_page .banner {
+    top: 0px;
+  }
+  img.img-responsive.res_1920 {
+    display: none;
+  }
+
+  img.img-responsive.res_768 {
+    display: block;
+  }
+  .home_page .banner {
+    padding: 100px 0px;
+  }
+
+  section.banner h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .navbar-inverse .navbar-nav > li > a {
+    color: #212121;
+    text-align: center;
+  }
+
+  .navbar-inverse .navbar-nav > .active > a,
+  .navbar-inverse .navbar-nav > .active > a:focus,
+  .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #212121;
+    background-color: transparent;
+    font-weight: 600;
+  }
+  .hide_brand {
+    display: none;
+  }
+  img.img-responsive.res_768 {
+    width: 120px;
+  }
+  .home_parallex {
+    padding: 100px 0px;
+  }
+
+  .home_parallex h2 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+
+  section.home_icon {
+    padding: 40px 0px;
+  }
+
+  section.home_icon h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+
+  section.home_icon p {
+    font-size: 20px;
+  }
+
+  section.home_icon h3 {
+    color: #787878;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  section.home_icon a {
+    margin-top: 20px;
+  }
+  .sub_footer {
+    text-align: center;
+    font-size: 12px;
+  }
+  p.privacy {
+    text-align: center;
+  }
+  section.footer {
+    padding: 50px 0px;
+    text-align: center;
+    background: #f4f4f4;
+  }
+
+  section.footer p {
+    margin: 20px 0px;
+  }
+  section.right_to_get {
+    padding: 50px 0px;
+  }
+
+  section.right_to_get span {
+    font-size: 24px;
+  }
+
+  section.right_to_get p {
+    line-height: 30px;
+  }
+  .pod {
+    margin-top: 30px;
+  }
+
+  .home_testimonials {
+    padding: 50px 0px;
+  }
+
+  .home_pods {
+    padding: 50px 0px;
+  }
+
+  .pod h3 {
+    margin: 10px 0px;
+    font-size: 18px;
+  }
+  form {
+    margin-top: 30px;
+  }
+
+  .map_section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+  .testimonial_box {
+    position: relative;
+    padding: 20px;
+    width: 100%;
+  }
+  .about_page .home_parallex h2 {
+    letter-spacing: 0;
+    font-size: 20px;
+  }
+
+  p.width_60 {
+    width: 100%;
+  }
+
+  section.right_to_get img {
+    display: table;
+    margin: 0 auto;
+  }
+  .about_page .home_parallex h2 {
+    letter-spacing: 0;
+    font-size: 20px;
+  }
+
+  p.width_60 {
+    width: 100%;
+  }
+
+  section.right_to_get img {
+    display: table;
+    margin: 0 auto;
+  }
+
+  p.user_content {
+    text-align: center;
+  }
+  section.home_icon.about_icon h4 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .services_amaavi {
+    padding: 50px 0px;
+  }
+
+  section.services_amaavi img {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  section.services_amaavi h3 {
+    text-align: center;
+  }
+
+  section.services_amaavi p {
+    text-align: center;
+  }
+
+  .services_pods {
+    padding: 50px 0px;
+    text-align: center;
+  }
+
+  section.services_pods img {
+    width: 40%;
+  }
+
+  /*Testimonial */
+
+  .testimonial_subtitle {
+    color: #0aaa7a;
+    font-size: 12px;
+  }
+  .testimonial_btn {
+    background-color: #373d4b !important;
+    color: #fff !important;
+  }
+  .seprator {
+    height: 2px;
+    width: 56px;
+    background-color: #0aaa7a;
+    margin: 7px 0 10px 0;
+  }
+
+  /*Testimonial */
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 600px) {
+  .home_page .banner {
+    top: 0px;
+  }
+  img.img-responsive.res_1920 {
+    display: none;
+  }
+
+  img.img-responsive.res_768 {
+    display: block;
+  }
+  .home_page .banner {
+    padding: 100px 0px;
+  }
+
+  section.banner h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .navbar-inverse .navbar-nav > li > a {
+    color: #212121;
+    text-align: center;
+  }
+
+  .navbar-inverse .navbar-nav > .active > a,
+  .navbar-inverse .navbar-nav > .active > a:focus,
+  .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #212121;
+    background-color: transparent;
+    font-weight: 600;
+  }
+  .hide_brand {
+    display: none;
+  }
+  img.img-responsive.res_768 {
+    width: 120px;
+  }
+  .home_parallex {
+    padding: 100px 0px;
+  }
+
+  .home_parallex h2 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+
+  section.home_icon {
+    padding: 40px 0px;
+  }
+
+  section.home_icon h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+
+  section.home_icon p {
+    font-size: 20px;
+  }
+
+  section.home_icon h3 {
+    color: #787878;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  section.home_icon a {
+    margin-top: 20px;
+  }
+  .sub_footer {
+    text-align: center;
+    font-size: 12px;
+  }
+  p.privacy {
+    text-align: center;
+  }
+  section.footer {
+    padding: 50px 0px;
+    text-align: center;
+    background: #f4f4f4;
+  }
+
+  section.footer p {
+    margin: 20px 0px;
+  }
+  section.right_to_get {
+    padding: 50px 0px;
+  }
+
+  section.right_to_get span {
+    font-size: 24px;
+  }
+
+  section.right_to_get p {
+    line-height: 30px;
+  }
+  .pod {
+    margin-top: 30px;
+  }
+
+  .home_testimonials {
+    padding: 50px 0px;
+  }
+
+  .home_pods {
+    padding: 50px 0px;
+  }
+  .pod h3 {
+    margin: 10px 0px;
+    font-size: 18px;
+  }
+  form {
+    margin-top: 30px;
+  }
+
+  .map_section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+  .testimonial_box {
+    position: relative;
+    padding: 20px;
+    width: 100%;
+  }
+  .about_page .home_parallex h2 {
+    letter-spacing: 0;
+    font-size: 20px;
+  }
+
+  p.width_60 {
+    width: 100%;
+  }
+
+  section.right_to_get img {
+    display: table;
+    margin: 0 auto;
+  }
+  p.user_content {
+    text-align: center;
+  }
+  section.home_icon.about_icon h4 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .services_amaavi {
+    padding: 50px 0px;
+  }
+
+  section.services_amaavi img {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  section.services_amaavi h3 {
+    text-align: center;
+  }
+
+  section.services_amaavi p {
+    text-align: center;
+  }
+
+  .services_pods {
+    padding: 50px 0px;
+    text-align: center;
+  }
+
+  section.services_pods img {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-device-width: 400px) and (max-device-width: 480px) {
+  .home_page .banner {
+    top: 0px;
+  }
+  img.img-responsive.res_1920 {
+    display: none;
+  }
+
+  img.img-responsive.res_768 {
+    display: block;
+  }
+  .home_page .banner {
+    padding: 100px 0px;
+  }
+
+  section.banner h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .navbar-inverse .navbar-nav > li > a {
+    color: #212121;
+    text-align: center;
+  }
+
+  .navbar-inverse .navbar-nav > .active > a,
+  .navbar-inverse .navbar-nav > .active > a:focus,
+  .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #212121;
+    background-color: transparent;
+    font-weight: 600;
+  }
+  .hide_brand {
+    display: none;
+  }
+  img.img-responsive.res_768 {
+    width: 120px;
+  }
+  .home_parallex {
+    padding: 100px 0px;
+  }
+
+  .home_parallex h2 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+
+  section.home_icon {
+    padding: 40px 0px;
+  }
+
+  section.home_icon h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+
+  section.home_icon p {
+    font-size: 20px;
+  }
+
+  section.home_icon h3 {
+    color: #787878;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  section.home_icon a {
+    margin-top: 20px;
+  }
+  .sub_footer {
+    text-align: center;
+    font-size: 12px;
+  }
+  p.privacy {
+    text-align: center;
+  }
+  section.footer {
+    padding: 50px 0px;
+    text-align: center;
+    background: #f4f4f4;
+  }
+
+  section.footer p {
+    margin: 20px 0px;
+  }
+  section.right_to_get {
+    padding: 50px 0px;
+  }
+
+  section.right_to_get span {
+    font-size: 24px;
+  }
+
+  section.right_to_get p {
+    line-height: 30px;
+  }
+  .pod {
+    margin-top: 30px;
+  }
+
+  .home_testimonials {
+    padding: 50px 0px;
+  }
+
+  .home_pods {
+    padding: 50px 0px;
+  }
+
+  .pod h3 {
+    margin: 10px 0px;
+    font-size: 18px;
+  }
+  form {
+    margin-top: 30px;
+  }
+
+  .map_section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+  .testimonial_box {
+    position: relative;
+    padding: 20px;
+    width: 100%;
+  }
+  .about_page .home_parallex h2 {
+    letter-spacing: 0;
+    font-size: 20px;
+  }
+
+  p.width_60 {
+    width: 100%;
+  }
+
+  section.right_to_get img {
+    display: table;
+    margin: 0 auto;
+  }
+  p.user_content {
+    text-align: center;
+  }
+  section.home_icon.about_icon h4 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .services_amaavi {
+    padding: 50px 0px;
+  }
+
+  section.services_amaavi img {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  section.services_amaavi h3 {
+    text-align: center;
+  }
+
+  section.services_amaavi p {
+    text-align: center;
+  }
+
+  .services_pods {
+    padding: 50px 0px;
+    text-align: center;
+  }
+
+  section.services_pods img {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 399px) {
+  .home_page .banner {
+    top: 0px;
+  }
+
+  img.img-responsive.res_1920 {
+    display: none;
+  }
+
+  img.img-responsive.res_768 {
+    display: block;
+  }
+
+  .home_page .banner {
+    padding: 100px 0px;
+  }
+
+  section.banner h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .navbar-inverse .navbar-nav > li > a {
+    color: #212121;
+    text-align: center;
+  }
+
+  .navbar-inverse .navbar-nav > .active > a,
+  .navbar-inverse .navbar-nav > .active > a:focus,
+  .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #212121;
+    background-color: transparent;
+    font-weight: 600;
+  }
+  .hide_brand {
+    display: none;
+  }
+  img.img-responsive.res_768 {
+    width: 120px;
+  }
+  .home_parallex {
+    padding: 100px 0px;
+  }
+
+  .home_parallex h2 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+
+  section.home_icon {
+    padding: 40px 0px;
+  }
+
+  section.home_icon h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+
+  section.home_icon p {
+    font-size: 20px;
+  }
+
+  section.home_icon h3 {
+    color: #787878;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  section.home_icon a {
+    margin-top: 20px;
+  }
+  .sub_footer {
+    text-align: center;
+    font-size: 12px;
+  }
+  p.privacy {
+    text-align: center;
+  }
+  section.footer {
+    padding: 50px 0px;
+    text-align: center;
+    background: #f4f4f4;
+  }
+
+  section.footer p {
+    margin: 20px 0px;
+  }
+  section.right_to_get {
+    padding: 50px 0px;
+  }
+
+  section.right_to_get span {
+    font-size: 24px;
+  }
+
+  section.right_to_get p {
+    line-height: 30px;
+  }
+  .pod {
+    margin-top: 30px;
+  }
+
+  .home_testimonials {
+    padding: 50px 0px;
+  }
+
+  .home_pods {
+    padding: 50px 0px;
+  }
+
+  .pod h3 {
+    margin: 10px 0px;
+    font-size: 18px;
+  }
+  form {
+    margin-top: 30px;
+  }
+
+  .map_section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+  .testimonial_box {
+    position: relative;
+    padding: 20px;
+    width: 100%;
+  }
+  .about_page .home_parallex h2 {
+    letter-spacing: 0;
+    font-size: 20px;
+  }
+
+  p.width_60 {
+    width: 100%;
+  }
+
+  section.right_to_get img {
+    display: table;
+    margin: 0 auto;
+  }
+  p.user_content {
+    text-align: center;
+  }
+  section.home_icon.about_icon h4 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .services_amaavi {
+    padding: 50px 0px;
+  }
+
+  section.services_amaavi img {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  section.services_amaavi h3 {
+    text-align: center;
+  }
+
+  section.services_amaavi p {
+    text-align: center;
+  }
+
+  .services_pods {
+    padding: 50px 0px;
+    text-align: center;
+  }
+
+  section.services_pods img {
+    width: 40%;
+  }
+}
+
+/* Responsive */
+
+@media all and (max-width: 959px) and (orientation: landscape) {
+}
+
+/* Responsive */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 516px) {
+  .srinagar_page .banner {
+    height: auto;
+  }
+
+  .srinagar_page .banner .summits h1 {
+    font-size: 30px;
+  }
+
+  .srinagar_page .banner .summits_down {
+    width: 100%;
+  }
+
+  .srinagar_page .banner .summits_bottom div {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+  }
+  .srinagar_page .banner_second {
+    height: auto;
+  }
+  .srinagar_page .banner_third {
+    height: 150vh;
+  }
+  .srinagar_page .banner_four {
+    height: 120vh;
+  }
+  .srinagar_page .seven_table {
+    height: auto;
+    display: block;
+  }
+  .srinagar_page .seven_table .day_one {
+    display: block;
+  }
+  .srinagar_page .seven_table .abs {
+    height: auto;
+    position: inherit !important;
+    transform: none !important;
+  }
+  .srinagar_page .seven_table .abs div {
+    margin: 10px 0;
+  }
+  .srinagar_page .seven_table .border-r {
+    border: none !important;
+  }
+  .srinagar_page .banner_six {
+    /* min-height: 150vh; */
+  }
+  .srinagar_page .banner_seven .day_one {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: scroll;
+    gap: 10px;
+  }
+  .srinagar_page .seven_table .day_one div {
+    border-right: none !important;
+  }
+
+  .section_item row {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .page_foot {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .abs {
+    margin: 0 5px;
+  }
+
+  .srinagar_page .seven_table ul li {
+    font-size: 16px;
+  }
+
+  .banner_eight .top_footer h1 {
+    font-size: 2em;
+    color: #fff;
+  }
+
+  .card {
+    border: none;
+    border-bottom: 2px solid rgb(255 183 174);
+    border-radius: 1px;
+  }
+}
